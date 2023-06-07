@@ -145,6 +145,10 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ```
 
 ## Output:
+## server output
+![WhatsApp Image 2023-06-07 at 9 02 34 PM](https://github.com/bharathraj1905/cover-page-design/assets/121490575/ba9fc23e-1897-4eb6-a0be-299ca6224181)
+
+
 ## client output
 ![WhatsApp Image 2023-06-07 at 9 11 29 PM](https://github.com/bharathraj1905/cover-page-design/assets/121490575/9bb8809a-39aa-4975-a78c-981092b0cf47)
 
